@@ -22,7 +22,7 @@ We’re going to be going a little deeper into the relationship between living s
 
 ![](download-5.png)
 
- here we have a heatmap, showing how a factor might impact price. The redder a square is, the more positively associated it is with the asking price of a house. You can see that the reddest square is price itself, of course because price and price are directly related to each other. However, if we already had the price estimate we wouldn’t need to perform this analysis, so we can see FOUR other factors which also have a strong impact on rice, those are : The number of bedrooms, bathrooms, living space, and grade of the property. We’ve created some quick charts here to showcase the relationship between price and these factors, and as you can see-living space has the strongest correlation, or relationship, with price. In short, you can reasonably expect proportionally higher returns from larger properties.
+Here we have a heatmap, showing how a factor might impact price. The redder a square is, the more positively associated it is with the asking price of a house. You can see that the reddest square is price itself, of course because price and price are directly related to each other. However, if we already had the price estimate we wouldn’t need to perform this analysis, so we can see FOUR other factors which also have a strong impact on rice, those are : The number of bedrooms, bathrooms, living space, and grade of the property. We’ve created some quick charts here to showcase the relationship between price and these factors, and as you can see-living space has the strongest correlation, or relationship, with price. In short, you can reasonably expect proportionally higher returns from larger properties.
 
 
 ## Conclusions
