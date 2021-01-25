@@ -41,15 +41,22 @@ See Jupyter Notebook,
 Contact information:
 
 lfcaruccio@gmail.com
+
 Github acct: luca-caruccio
+
 Linkedin: Luca Caruccio
 
 
 ### Repository Structure
 -Introduction
+
 -Business Problems
+
 -Data Cleaning and Methods
+
 -Analysis 
+
 -Conclusions
+
 -Next Steps
 
