@@ -16,7 +16,13 @@ The available data maps 20,000 homes on the market in King County, Washington. T
 
 ## Results
 
-What did the data show
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
 
 ## Conclusions
 
