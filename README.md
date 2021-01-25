@@ -17,7 +17,12 @@ The available data maps 20,000 homes on the market in King County, Washington. T
 ## Results
 
 ![](download.png)
+
+We’re going to be going a little deeper into the relationship between living space and price, as is proved to be the most reliable indicator of sale price. Based on this yellow line and the cluster of upward angled dots following it, we can see where the relationship gets stale, below 3000 square feet, and unpredictable, past 5000. Now based on this trajectory, we can expect between $250 and 280,000 per 1000 square feet on a property, within the zone denoted by these two vertical black lines. The data in this zone below the yellow line in this zone is clustered tightly which indicates less risk, and above the that line we can see some unexpected jumps in price. Due to this regression chart, we can assume with a reasonable degree of safety that the safest, low risk high reward purchase would fall within the confines of these two black lines.
+
 ![](download-5.png)
+
+ here we have a heatmap, showing how a factor might impact price. The redder a square is, the more positively associated it is with the asking price of a house. You can see that the reddest square is price itself, of course because price and price are directly related to each other. However, if we already had the price estimate we wouldn’t need to perform this analysis, so we can see FOUR other factors which also have a strong impact on rice, those are : The number of bedrooms, bathrooms, living space, and grade of the property. We’ve created some quick charts here to showcase the relationship between price and these factors, and as you can see-living space has the strongest correlation, or relationship, with price. In short, you can reasonably expect proportionally higher returns from larger properties.
 
 
 ## Conclusions
