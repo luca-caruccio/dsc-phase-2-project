@@ -16,7 +16,7 @@ The available data maps 20,000 homes on the market in King County, Washington. T
 
 ## Results
 
-![](download.png)
+![](Screen Shot 2021-01-25 at 10.43.38 AM.png)
 
 We’re going to be going a little deeper into the relationship between living space and price, as is proved to be the most reliable indicator of sale price. Based on this yellow line and the cluster of upward angled dots following it, we can see where the relationship gets stale, below 3000 square feet, and unpredictable, past 5000. Now based on this trajectory, we can expect between $250 and 280,000 per 1000 square feet on a property, within the zone denoted by these two vertical black lines. The data in this zone below the yellow line in this zone is clustered tightly which indicates less risk, and above the that line we can see some unexpected jumps in price. Due to this regression chart, we can assume with a reasonable degree of safety that the safest, low risk high reward purchase would fall within the confines of these two black lines.
 
